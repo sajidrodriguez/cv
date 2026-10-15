@@ -19,7 +19,7 @@ Jit De Flou's first productivity app went live on **October 1, 2026**.
 My contribution covers product development and operation. Access, code and data
 are private and are not exposed in this presentation.
 
-The [public demo](https://jitdeflou.com/demo-app) is available. It starts
+The [public demo](https://jitdeflou.com/demo-app?lang=en) is available. It starts
 blank, without fictional data, and does not provide access to the private app.
 
 ### Mobilec corporate website · production

@@ -45,7 +45,7 @@ software, product and experimentation. I built and published the website,
 virtual agent and an inbox for continuing conversations personally.
 Jit De Flou is operational: on **October 1, 2026**, we launched our first private
 productivity app. I handle development and operation; access, code and data
-remain private. The [public demo](https://jitdeflou.com/demo-app) is available
+remain private. The [public demo](https://jitdeflou.com/demo-app?lang=en) is available
 and starts blank, without fictional data. It is separate from the private app.
 
 ## Top Secret

@@ -10,7 +10,7 @@ I connect operations, sales and marketing through workflows, databases and
 custom systems. I integrate AI where it provides a useful solution.
 
 [Explore my professional profile](https://sajidrodriguez.github.io/cv/en/) ·
-[Public demo](https://jitdeflou.com/demo-app) ·
+[Public demo](https://jitdeflou.com/demo-app?lang=en) ·
 [Jit De Flou](https://jitdeflou.com) ·
 [Mobilec](https://mobilec.com.mx/en)
 
@@ -44,7 +44,7 @@ I design, build and operate products at Jit De Flou. Our first productivity app
 went live on **October 1, 2026**. It is private: access, code and data are not
 part of this presentation.
 
-The [public demo](https://jitdeflou.com/demo-app) is available and starts
+The [public demo](https://jitdeflou.com/demo-app?lang=en) is available and starts
 blank, without fictional data. It is separate from the private app.
 
 [Explore Jit De Flou and its services](https://jitdeflou.com) ·
